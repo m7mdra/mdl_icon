@@ -12,7 +12,7 @@ dependencies:
   mdl_icons:
     git:
       url: https://github.com/m7mdra/mdl_icon
-      ref: master
+      ref: main
 
 ```
 
